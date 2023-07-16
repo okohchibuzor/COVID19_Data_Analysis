@@ -38,7 +38,7 @@ After that I created six more visuals
    
 ![](vis_1.webp)
 
----
+
 
 ### 2. DEATH TO SURVIVAL
 
@@ -46,7 +46,7 @@ This visual shows that majority of those who contacted COVID-19 survived. 97.04%
 
 ![](vis_2.webp)
 
----
+
 
 ###  3.  TOP 5 STATES BY DEATH
   
@@ -54,7 +54,7 @@ This visual shows that majority of those who contacted COVID-19 survived. 97.04%
 
  ![](vis_3.webp)
 
----
+
 
  ### 4. LESS THAN 1000 CASES
 
@@ -62,7 +62,7 @@ This visual shows that majority of those who contacted COVID-19 survived. 97.04%
   
 ![](vis_4.webp)
 
----
+
 
 ### 5.  CONFIRMED CASES BY STATES
 
@@ -71,7 +71,7 @@ I used the map visual to show the cases of each state which can easily be seen b
 
 ![](vis_5.webp)
 
----
+
 
 ### 6.  TOP 5 STATES WITH DISCHARGED CASES
 
@@ -110,6 +110,11 @@ Using the visuals above, i was ablw to provide solutions to the questions asked,
 Here's a link to the published version of the report - [Click here](https://app.powerbi.com/MobileLandingPage?ctid=48f2f0d2-cfbf-4c32-afbf-0e802467492f&pbi_source=linkShare&action=OpenLink&linkId=43TIO2mnO6)
 
 
+### Connect with me
+----
+  [Linkedin](https://linkedin.com/in/chibuzor-data-analyst) 
+  
+[Twitter](https://twitter.com/cisco_official?t=zdocHllXoG5cV__V9h0pWg&s=09)
 
 
 Thank you.
