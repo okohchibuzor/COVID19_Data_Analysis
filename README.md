@@ -81,7 +81,7 @@ I used the map visual to show the cases of each state which can easily be seen b
 ### Dashboard
 ![](dashboard.webp)
 
----
+
 Using the visuals above, i was ablw to provide solutions to the questions asked,
 
  1. The state with the highest recorded cases is Lagos State with 98k cases.
@@ -107,7 +107,7 @@ Using the visuals above, i was ablw to provide solutions to the questions asked,
 
 
 
-Here's a link to the published version of the report - ![Click here](https://app.powerbi.com/MobileLandingPage?ctid=48f2f0d2-cfbf-4c32-afbf-0e802467492f&pbi_source=linkShare&action=OpenLink&linkId=43TIO2mnO6)
+Here's a link to the published version of the report - [Click here](https://app.powerbi.com/MobileLandingPage?ctid=48f2f0d2-cfbf-4c32-afbf-0e802467492f&pbi_source=linkShare&action=OpenLink&linkId=43TIO2mnO6)
 
 
 
